@@ -1,0 +1,6 @@
+app-dir: .
+disk: 2048
+name: myapp
+
+framework:
+  type: php
